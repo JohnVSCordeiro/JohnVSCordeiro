@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning: Futuro FullStack Developer 
 - 📫 How to reach me: joao.vitor.cordeiro0324@gmail.com
 - 😄 Pronouns: Ele/Dele
+
+
