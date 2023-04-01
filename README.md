@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-     Sou estudante de ensiso superior em ADS e futuro desenvolvedor FullStack 
+     Sou estudante de ensino superior em ADS e futuro desenvolvedor FullStack 
   </p>
   
   <p align="center">
